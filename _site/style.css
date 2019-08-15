@@ -1,4 +1,45 @@
-svg{
-	width: 60px!important;
+body{
+	background-color: black;
+}
+
+section{
+	background-color: #56d67c;
+	border: 1px solid #94aacc;
+	font-family: Sniglet;
+	max-width: 60%;
+	margin: 20px auto;
+	font-size: 16px;
+	text-align: center;
+
+}
+
+div{
+	width: 80%;
+	margin: 50px auto;
+}
+
+div .tech{
+	padding: 20px;
+	max-width: 45%;
+	margin: 30px auto;
 	height: auto;
+	border: 1px solid #94aacc;
+}
+
+h2{
+	color: #2c3e50;
+	font-size: 2.0rem;
+	margin: 10px auto;
+}
+
+svg{
+	margin: 10px auto;
+	width: 70px!important;
+	height: auto;
+}
+
+
+p{
+	margin: 2% auto;
+	font-size: 1.5em;
 }
